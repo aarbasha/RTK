@@ -1,0 +1,12 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name":"Anas",
+            "username": "aarbasha",
+            "email":"anas.arbasha@outlook.com",
+            "phone": "+963-0967107707" ,
+            "status":"active"
+        }
+    ]
+}
